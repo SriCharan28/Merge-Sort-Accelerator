@@ -1,1 +1,2 @@
 This folder includes the C++ design and test bench files of merge sort accelerator.
+HLS of the C++ files in Vitis HLS generates verilog files.
